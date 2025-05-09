@@ -20,7 +20,6 @@ This project benchmarks the performance of standard C++ array multiplication and
 * `plot_speedup.py` – Python script to parse `results.txt` and generate a speedup graph.
 * `results.txt` – Raw benchmark output from `run_all.sh`.
 * `speedup_plot.png` – Final graph comparing SIMD and non-SIMD performance.
-* `Vidrine_Blayton_Project4_Commentary.docx` – Final write-up report describing setup, results, observations, and interpretations.
 
 ---
 
