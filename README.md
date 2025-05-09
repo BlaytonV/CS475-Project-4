@@ -28,8 +28,8 @@ This project benchmarks the performance of standard C++ array multiplication and
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/BlaytonV/CS475-Project-4.git
-cd CS475-Project-4
+git clone https://github.com/<your username>/<your repository>.git
+cd <Your repository>
 ```
 
 ### 2. Run Benchmarks on flip
