@@ -9,7 +9,7 @@ for size in "${SIZES[@]}"
 do
     echo "Testing ARRAYSIZE=$size"
     g++ -DARRAYSIZE=$size -fopenmp -o all04 all04.cpp
-    ./all04 >> $OUTFILE
+    ./all04 >> $OUTFILE 2>&1
 done
 
 echo "Done. Results saved to $OUTFILE"
